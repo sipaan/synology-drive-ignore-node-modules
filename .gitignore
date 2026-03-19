@@ -1,1 +1,3 @@
 synology-drive-ignore-node-modules.code-workspace
+.claude/
+settings.local.json
